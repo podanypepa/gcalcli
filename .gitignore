@@ -4,6 +4,13 @@
 *.dll
 *.so
 *.dylib
+gcalcli
+gcalcli-darwin.arm64
+gcalcli-darwin.x86_64
+gcalcli-linux
+gcalcli.exe
+
+
 
 # Test binary, built with `go test -c`
 *.test
@@ -13,3 +20,5 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+pkg/version/buildinfo.txt
