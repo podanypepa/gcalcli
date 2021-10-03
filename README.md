@@ -38,3 +38,6 @@ Set of tools for build app ussed in `Makefile`. I am very defensive developer :)
 
 [`yamllint `](https://github.com/adrienverge/yamllint) yamllint does not only check for syntax validity, but for weirdnesses like key repetition and cosmetic problems such as lines length, trailing spaces, indentation, etc.
 
+## documentatons
+
+[Google Calendar for Developers: Calendar API](https://developers.google.com/calendar/api/quickstart/go)
